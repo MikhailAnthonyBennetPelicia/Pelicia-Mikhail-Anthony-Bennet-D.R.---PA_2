@@ -1,5 +1,4 @@
 # Pelicia-Mikhail-Anthony-Bennet-D.R.---PA_2
-# Pelicia-Mikhail-Anthony-Bennet-D.R.---PA_1
 ### Name: PELICIA, Mikhail Anthony Bennet D.R.
 ### Section: 2ECE-C
 ### Date Submitted: 03/09/2026
