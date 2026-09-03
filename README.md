@@ -37,7 +37,7 @@ div_by_4 = tenXten[tenXten % 4 == 0]
 np.save('div_by_4.npy', div_by_4)
 div_by_4
 ````
-##Problem C. Above-Mean Square Problem
+## Problem C. Above-Mean Square Problem
 #### For this problem, the requirement was to create an array with the integers from 1-36, square the values, get the mean, and obtain the values that are greater than the mean. For this, "np.aranage" was used to create the matrix with "**2" to square the values, ".reshape" to make a 6x6 matrix, "np.mean" to get the mean of the matrix, "S[S > S_mean]" to get the values above the mean, and ".shape" to get the shape of the above_mean.
 #### Here's the code that was used:
 ````
